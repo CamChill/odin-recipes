@@ -12,3 +12,12 @@ div {
 h1 {
     font-weight: bold;
 }
+
+.list {
+    display: inline;
+    font-size: 22px;
+}
+
+p {
+    color: white;
+}
